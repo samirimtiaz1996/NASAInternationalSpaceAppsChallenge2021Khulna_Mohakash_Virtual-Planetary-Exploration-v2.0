@@ -14,7 +14,7 @@ SPACE TRIDENT TOOLSET
 Last year we addressed the issue of the dead weight and longevity of the planetary geology toolset used by astronomers through our project called the Space Trident. Space Trident is an alternative planetary geology toolset for the astronauts for extravehicular activities which included a rake, trenching tool, small & large scoop as tool heads to be connected with the common handle.
 
 
-https://sa-2019.s3.amazonaws.com/media/images/76a48889-e8a1-4649-afdf-ea0de032838f.max-1000x1000.jpg
+![alt text](https://sa-2019.s3.amazonaws.com/media/images/76a48889-e8a1-4649-afdf-ea0de032838f.max-1000x1000.jpg)
 
 
 
