@@ -1,7 +1,7 @@
 # ARSS-Advanced Regolith Sampler System
-EDIT PROJECT
-HIGH-LEVEL PROJECT SUMMARY
-In the previous Apollo missions, astronauts reported difficulties while handling the regoliths. Being ionized particles due to absorption of solar radiation, regoliths tend to stick to the astronaut's spacesuits &amp; other instruments. Also, scooping was difficult for the scattering of regoliths due to reduced gravity. Hence, We developed the ARSS which uses the RASSOR bucket technology to scoop &amp; trap the regoliths. The specialized bucket can be easily attached to the previous common handle of the toolset that ensures prevention of being a bulky device which makes it a handy tool for collecting samples or cleaning a planetary surface for space exploration or colonization missions.
+
+## HIGH-LEVEL PROJECT SUMMARY
+**In the previous Apollo missions, astronauts reported difficulties while handling the regoliths. Being ionized particles due to absorption of solar radiation, regoliths tend to stick to the astronaut's spacesuits &amp; other instruments. Also, scooping was difficult for the scattering of regoliths due to reduced gravity. Hence, We developed the ARSS which uses the RASSOR bucket technology to scoop &amp; trap the regoliths. The specialized bucket can be easily attached to the previous common handle of the toolset that ensures prevention of being a bulky device which makes it a handy tool for collecting samples or cleaning a planetary surface for space exploration or colonization missions.
 
 ## LINK TO PROJECT "DEMO"
 https://youtu.be/GMtsi5Rzzro
