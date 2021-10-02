@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <title>Mohakash | Virtual Planetary Exploration</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" content="width=960">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <script src="TemplateData/UnityProgress.js"></script>
+    <script src="Build/UnityLoader.js"></script>
+    <script>var unityInstance = UnityLoader.instantiate("unityContainer", "Build/NextGenEvaBuild_Rake.json", { onProgress: UnityProgress });</script>
+    <style>
+    .first{
+        font-family: 'Poppins', sans-serif;
+        font-weight: bold;
+        color: black;
+        padding-left: 5px;
+        padding-right: 16px;
+        text-decoration: none;
+        font-size: 36px;
+        color: #000000;
+        text-align: center;
+    }
+    .glow {
+        font-family: 'Poppins', sans-serif;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 22px;
+        color: #000000;
+        text-align: center;
+/*        -webkit-animation: glow 1s ease-in-out infinite alternate;
+        -moz-animation: glow 1s ease-in-out infinite alternate;
+        animation: glow 1s ease-in-out infinite alternate;*/
+    }
+
+/*    @-webkit-keyframes glow {
+        from {
+            text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+        }
+
+        to {
+            text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+        }
+    }*/
+    </style>
+</head>
+
+<body>
+    <div class="webgl-content">
+        <div class="topnav" style="margin-top: 15px;">
+            <a href="../index.html" class="first">Mohakash</a>
+            <a href="../NextGenEvaBuild_Scoop_1/index.html" class="glow">Smaller Scoop</a>
+            <a href="../NextGenEvaBuild_Scoop_2/index2.html" class="glow">Larger Scoop</a>
+            <a href="../NextGenEvaBuild_Trenching_Tool/index4.html" class="glow">Trenching Tool</a>
+        </div>
+        <div id="unityContainer" style="width: 960px; height: 600px"></div>
+        <div class="footer">
+            <div class="webgl-logo"></div>
+            <div class="fullscreen" onclick="unityInstance.SetFullscreen(1)"></div>
+            <div class="title" style="font-weight: bold;">Model Name : Rake</div>
+        </div>
+    </div>
+</body>
+
+</html>
