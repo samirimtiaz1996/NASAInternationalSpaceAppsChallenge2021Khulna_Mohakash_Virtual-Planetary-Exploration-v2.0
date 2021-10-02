@@ -1,3 +1,4 @@
+Link to submission: https://2021.spaceappschallenge.org/challenges/statements/virtual-planetary-exploration-v20/teams/mohakash-1/project
 # ARSS-Advanced Regolith Sampler System
 
 ## HIGH-LEVEL PROJECT SUMMARY
